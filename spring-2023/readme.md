@@ -1,4 +1,6 @@
- this is the readme for the spring 2023 fundamentals of scratch class
+# fundamentals of scratch spring 2023
+
+this is the readme for the spring 2023 fundamentals of scratch class
 
 the required skills to graduate this class are under review and not final
 

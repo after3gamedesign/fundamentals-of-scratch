@@ -1,6 +1,6 @@
-this is the readme for the spring 2023 fundamentals of scratch class
-the required skills to graduate this class are under review and not final
-as of now here are the required skills before certificate completion of this class:
+# this is the readme for the spring 2023 fundamentals of scratch class
+# the required skills to graduate this class are under review and not final
+# as of now here are the required skills before certificate completion of this class:
 
 1.  Sprite controls w keys/mouse
 2.  Sprite animations
